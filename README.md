@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lamour-en-heritage/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for L'amour En Heritage](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lamour-en-heritage/) |
+| **Get License** | [Get a Licensing Quote for L'amour En Heritage](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lamour-en-heritage/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b91d289902576adb8539b3d66345363ea1dd45a8e841f23d8265024206cc6d35` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
