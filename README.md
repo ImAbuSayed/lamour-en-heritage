@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lamour-en-heritage/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for L'amour En Heritage](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lamour-en-heritage/) |
+| **Get License** | [Official Music Licensing for L'amour En Heritage](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lamour-en-heritage/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans le reflet de la ville, baby, tu brilles si fort
+> L'amour en héritage, j'en veux encore et encore
+> Monte dans la Porsche, let's ride, fuyons ce décor
+> Mon cœur bat la chamade quand on frôle l'aurore
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
